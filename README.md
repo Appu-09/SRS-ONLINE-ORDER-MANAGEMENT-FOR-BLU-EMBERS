@@ -1,0 +1,2 @@
+# SRS-ONLINE-ORDER-MANAGEMENT-FOR-BLU-EMBERS
+Online Order Management provides the service facility to both the customer and the restaurant.It is a service basically to provide food ordering using an online platform.In order to avoid the heavy traffic while ordering and also to save the customer's time,this website have been created.The working of this website is that , once the customer have ordered their food they will receive a call once the order is done.
